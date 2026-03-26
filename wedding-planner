@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+<title>Luxury Wedding Planner in Paris</title>
+
+<!-- SEO -->
+<meta name="description" content="Download the best wedding planner for Paris weddings. Elegant, printable & digital.">
+<meta name="keywords" content="wedding planner paris, luxury wedding planner, bridal organizer">
+
+<!-- Open Graph (Pinterest) -->
+<meta property="og:title" content="Luxury Wedding Planner Paris">
+<meta property="og:description" content="Plan your dream wedding in Paris with this premium planner.">
+<meta property="og:image" content="https://yourdomain.com/paris.jpg">
+<meta property="og:type" content="product">
+
+<!-- 🔥 PRODUCT SCHEMA -->
+<script type="application/ld+json">
+{
+ "@context": "https://schema.org/",
+ "@type": "Product",
+ "name": "Luxury Wedding Planner Paris",
+ "image": "https://yourdomain.com/paris.jpg",
+ "description": "Complete wedding planner for brides in Paris.",
+ "brand": {
+   "@type": "Brand",
+   "name": "Femmora"
+ },
+ "offers": {
+   "@type": "Offer",
+   "priceCurrency": "USD",
+   "price": "10.00",
+   "availability": "https://schema.org/InStock",
+   "url": "https://yourgumroadlink.com"
+ }
+}
+</script>
+
+</head>
+
+<body style="font-family: Arial; text-align:center;">
+
+<h1>Luxury Wedding Planner – Paris Edition</h1>
+
+<img src="https://yourdomain.com/paris.jpg" width="300">
+
+<p>Perfect planner for organizing your dream wedding in Paris.</p>
+
+<a href="https://yourgumroadlink.com" target="_blank">
+<button style="padding:15px; background:red; color:white;">
+👉 Get Instant Access
+</button>
+</a>
+
+</body>
+</html>
